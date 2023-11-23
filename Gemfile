@@ -13,6 +13,13 @@ gem "sqlite3", "~> 1.4"
 
 gem "sassc-rails"
 # Use the Puma web server [https://github.com/puma/puma]
+
+gem "font-awesome-sass", "~> 6.1"
+
+# Simple form
+gem "simple_form"
+
+gem "autoprefixer-rails"
 gem "puma", ">= 5.0"
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
